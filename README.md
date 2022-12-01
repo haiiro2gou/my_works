@@ -1,4 +1,5 @@
 # はいいろ。の作品公開所
+[![downloads](https://img.shields.io/github/downloads/haiiro2gou/my_works/total?logo=github)](https://github.com/haiiro2gou/my_works/releases)
 ### はじめに
 私が作成した(二次創作含む)作品群をここに公開しています(その予定です)。  
 ~~他のリポジトリにあるやつも見て行ってね~~
